@@ -16,7 +16,6 @@ class DoubleConv(torch.nn.Module):
         return self.step(X)
 
     
-    
 
 class UNet(torch.nn.Module):
     """
