@@ -6,3 +6,5 @@ notebooks/ensemble_val_results/
 notebooks/ensemble_test_result/
 notebooks/pre-processing/lung_seg/model.pt
 notebooks/main_artery_seg/labels
+docker/test_inputs/
+docker/test_outputs/
