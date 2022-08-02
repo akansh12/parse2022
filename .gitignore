@@ -1,1 +1,8 @@
 temp/
+notebooks/Unet_docker/notebooks/submit/
+notebooks/Unet_docker/notebooks/submit_3/
+notebooks/Unet_docker/notebooks/submit_old/
+notebooks/ensemble_val_results/
+notebooks/ensemble_test_result/
+notebooks/pre-processing/lung_seg/model.pt
+notebooks/main_artery_seg/labels
