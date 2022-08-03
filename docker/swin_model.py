@@ -2,7 +2,9 @@ from monai.networks.nets import SwinUNETR
 from collections import OrderedDict
 import torch
 
-device = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu") 
+# device = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu") 
+
+device = torch.device("cpu") 
 
 def Swin_model(path2model):
 
