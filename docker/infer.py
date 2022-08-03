@@ -2,6 +2,7 @@ from swin_model import Swin_model
 from unet_model import Unet_model
 import torch
 device = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu") 
+print(device)
 import monai
 import numpy as np
 from monai.inferers import sliding_window_inference
@@ -79,10 +80,12 @@ post_transforms_2 = Compose([
 
 
 loader = test_dataloader("/scratch/scratch6/akansh12/challenges/parse2022/docker/test_inputs/")
+print("Data-loaded")
 swin_8687, swin_8675, swin_8655, unet_8530, unet_8550, unet_8551 = load_model()
 models = [unet_8530, unet_8550, unet_8551, swin_8687, swin_8675, swin_8655]
 weights = np.array([85.30, 85.50, 85.51, 88, 87, 86.55])
 weights = weights / np.sum(weights)
+print("Model-loaded")
 
 
 roi_size = (288, 288, 288)
