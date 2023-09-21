@@ -4,7 +4,6 @@ Parse Challenge 2022: Pulmonary Arteries Segmentation Using Swin U-net Transform
 Author: Akansh Maurya; Rohan Padhy; Kunal Dasharath Patil; Kalluri Ramakrishna; Ganapathy Krishnamurthi
 
 Paper Link: ![https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10230839](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10230839)
-Challenge link: ![https://parse2022.grand-challenge.org/](https://parse2022.grand-challenge.org/)
 
 ![](https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/10230311/10230322/10230839/padhy1-p4-padhy-small.gif)
 
