@@ -6,6 +6,8 @@ Author: Akansh Maurya; Rohan Padhy; Kunal Dasharath Patil; Kalluri Ramakrishna; 
 Paper Link: ![https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10230839](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10230839)
 Challenge link: ![https://parse2022.grand-challenge.org/](https://parse2022.grand-challenge.org/)
 
+![](https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/10230311/10230322/10230839/padhy1-p4-padhy-small.gif)
+
 ```
 @INPROCEEDINGS{10230839,
   author={Padhy, Rohan and Maurya, Akansh and Patil, Kunal Dasharath and Ramakrishna, Kalluri and Krishnamurthi, Ganapathy},
