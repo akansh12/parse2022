@@ -1,9 +1,9 @@
 # parse2022
-![PARSE 2022](https://parse2022.grand-challenge.org/)
+![PARSE 2022](https://rumc-gcorg-p-public.s3.amazonaws.com/b/658/Binner_xO7S9hh.x10.jpeg)
 Parse Challenge 2022: Pulmonary Arteries Segmentation Using Swin U-net Transformer(Swin UNETR) and U-net
 Author: Akansh Maurya; Rohan Padhy; Kunal Dasharath Patil; Kalluri Ramakrishna; Ganapathy Krishnamurthi
 
-Paper Link: ![Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10230839)
+Paper Link: ![https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10230839](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10230839)
 Challenge link: ![https://parse2022.grand-challenge.org/](https://parse2022.grand-challenge.org/)
 
 ```
