@@ -5,7 +5,7 @@ Author: Akansh Maurya; Rohan Padhy; Kunal Dasharath Patil; Kalluri Ramakrishna; 
 
 Paper Link: [![Paper link](https://ieeexplore.ieee.org/document/10230839) ](https://ieeexplore.ieee.org/document/10230839)
 
-Pre-trained Models: ![Swin-Unet][https://drive.google.com/file/d/1tUTVYmADWL8-Cmcs81CW2Okcs7fuPajg/view?usp=sharing] ![Unet][https://drive.google.com/file/d/1njMPcfYYbCh_m2Ok7x9O-4nl-2TksXHE/view?usp=sharing]
+Pre-trained Models: ![Swin-Unet](https://drive.google.com/file/d/1tUTVYmADWL8-Cmcs81CW2Okcs7fuPajg/view?usp=sharing) ![Unet](https://drive.google.com/file/d/1njMPcfYYbCh_m2Ok7x9O-4nl-2TksXHE/view?usp=sharing)
 
 ![](https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/10230311/10230322/10230839/padhy1-p4-padhy-small.gif)
 
